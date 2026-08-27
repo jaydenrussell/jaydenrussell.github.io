@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Community Builder Profile Slim Display</name>
+		<description>Standalone Joomla module: displays the logged-in Community Builder user's display name and avatar in the top header navbar.</description>
+		<element>mod_cbprofileslim</element>
+		<type>module</type>
+		<client>site</client>
+		<version>1.5.5</version>
+		<author>jaydenrussell</author>
+		<infourl>https://github.com/jaydenrussell/mod-cbprofileslim</infourl>
+		<downloadurl>https://github.com/jaydenrussell/mod-cbprofileslim/releases/download/v1.5.5/mod_cbprofileslim.zip</downloadurl>
+		<sha256>9da8d24cb84f101fd40679c9c2f0d0315218ed4f370a5710e4e2e63faa654284</sha256>
+		<targetplatform name="joomla" version="3.[0-9]+" />
+		<php_minimum>7.4.0</php_minimum>
+	</update>
+</updates>
